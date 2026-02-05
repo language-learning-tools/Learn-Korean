@@ -11,6 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Learn Korean</title>
         <link rel="stylesheet" href="styles.css">
+        <link rel="icon" href="assets/logo.ico" type="image/x-icon">
     </head>
     <body>
         <%
